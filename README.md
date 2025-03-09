@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<style>
-  .center-image {
-    display: block;
-    margin: 0 auto;
-  }
-</style>
 </head>
 
 <body style="background-color:#DCDFFF;">
