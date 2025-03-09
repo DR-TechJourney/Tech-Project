@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-</head>
 <style>
   .center-image {
     display: block;
     margin: 0 auto;
   }
 </style>
+</head>
 <body style="background-color:#DCDFFF;">
 
 <!-- First practice page -->
